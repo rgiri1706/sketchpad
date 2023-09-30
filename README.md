@@ -1,3 +1,35 @@
+
+
+
+
+link: https://sketchpad-liard.vercel.app/
+
+Introducing our innovative Sketchbook App, built using the power of Next.js, Socket.io, and Express, designed to transform your digital drawing experience! 
+
+**Key Features:**
+
+**1. Real-time Collaboration:** With the magic of Socket.io, our app allows two artists to draw simultaneously on the same canvas. Whether you're brainstorming ideas with a colleague or simply having a creative showdown with a friend, you can now collaborate effortlessly in real time.
+
+**2. Pencil and Eraser Tools:** Our Sketchbook App provides a versatile set of tools, including a pencil for precise lines and an eraser for those moments of artistic refinement. Unleash your creativity with the freedom to express yourself using these intuitive tools.
+
+**3. Undo and Redo Functionality:** Mistakes happen to the best of us, but worry not! Our app includes a handy undo and redo feature, enabling you to backtrack and refine your artwork with ease. It's all about perfecting your masterpiece, stroke by stroke.
+
+**4. Download Your Artwork:** Once you've created a digital masterpiece, simply hit the download button to save your artwork locally. Share your creativity with the world, print it, or keep it as a digital keepsake - the choice is yours.
+
+With our Sketchbook App, your artistic journey is elevated to new heights, thanks to the seamless combination of Next.js for a responsive and interactive user interface, Socket.io for real-time collaboration, and Express to ensure smooth communication between users. Whether you're a professional artist, a casual doodler, or simply looking for a fun way to connect with friends through art, our app is here to make your creative aspirations come to life effortlessly.
+
+Get ready to embark on an exciting digital drawing adventure today with our Sketchbook App!
+![Screenshot (38)](https://github.com/rgiri1706/sketchpad/assets/26921687/7f311a59-c0a3-4ade-814b-5537dfa3fe4d)
+
+
+
+
+
+
+
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
