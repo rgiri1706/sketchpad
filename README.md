@@ -19,7 +19,8 @@ Introducing our innovative Sketchbook App, built using the power of Next.js, Soc
 With our Sketchbook App, your artistic journey is elevated to new heights, thanks to the seamless combination of Next.js for a responsive and interactive user interface, Socket.io for real-time collaboration, and Express to ensure smooth communication between users. Whether you're a professional artist, a casual doodler, or simply looking for a fun way to connect with friends through art, our app is here to make your creative aspirations come to life effortlessly.
 
 Get ready to embark on an exciting digital drawing adventure today with our Sketchbook App!
-![Screenshot (38)](https://github.com/rgiri1706/sketchpad/assets/26921687/7f311a59-c0a3-4ade-814b-5537dfa3fe4d)
+![Screenshot 2023-09-30 085455](https://github.com/rgiri1706/sketchpad/assets/26921687/23864547-9238-490f-8b3a-b3388ce93b1f)
+
 
 
 
